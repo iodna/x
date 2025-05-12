@@ -6,6 +6,8 @@
     "ghcr.io/devcontainers-extra/features/zig:1": {},
     "ghcr.io/devcontainers/features/python:1": {},
     "ghcr.io/audacioustux/devcontainers/bun:1": {},
-    "ghcr.io/devcontainers-community/npm-features/typescript:1": {}
+    "ghcr.io/devcontainers-community/npm-features/typescript:1": {},
+    "ghcr.io/warrenbuckley/codespace-features/sqlite:1": {},
+    "ghcr.io/eitsupi/devcontainer-features/duckdb-cli:1": {}
   }
 }
