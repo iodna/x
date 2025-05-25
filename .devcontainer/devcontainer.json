@@ -2,12 +2,16 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers/features/rust:1": {},
+    "ghcr.io/devcontainers-extra/features/clojure-asdf:2": {},
     "ghcr.io/itsmechlark/features/postgresql:1": {},
     "ghcr.io/devcontainers-extra/features/zig:1": {},
     "ghcr.io/devcontainers/features/python:1": {},
     "ghcr.io/audacioustux/devcontainers/bun:1": {},
     "ghcr.io/devcontainers-community/npm-features/typescript:1": {},
     "ghcr.io/warrenbuckley/codespace-features/sqlite:1": {},
-    "ghcr.io/eitsupi/devcontainer-features/duckdb-cli:1": {}
+    "ghcr.io/eitsupi/devcontainer-features/duckdb-cli:1": {},
+    "ghcr.io/devcontainers/features/ruby:1": {},
+    "ghcr.io/devcontainers-extra/features/haskell:2": {},
+    "ghcr.io/julialang/devcontainer-features/julia:1": {}
   }
 }
